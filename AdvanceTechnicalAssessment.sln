@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AdvanceTechnicalAssessment", "AdvanceTechnicalAssessment.csproj", "{D3AE8F9E-B90E-4EA2-99A1-798D4C567176}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "testCases", "testCases", "{6D12BA1F-510C-457C-9663-182CED91758A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PokerTests", "testCases\PokerTests\PokerTests.csproj", "{390EECAD-8000-4F33-A8F4-52C3784C26D4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D3AE8F9E-B90E-4EA2-99A1-798D4C567176}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D3AE8F9E-B90E-4EA2-99A1-798D4C567176}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D3AE8F9E-B90E-4EA2-99A1-798D4C567176}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D3AE8F9E-B90E-4EA2-99A1-798D4C567176}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A48384FE-B546-4EBF-9B4D-2E572E68BC59}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A48384FE-B546-4EBF-9B4D-2E572E68BC59}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A48384FE-B546-4EBF-9B4D-2E572E68BC59}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A48384FE-B546-4EBF-9B4D-2E572E68BC59}.Release|Any CPU.Build.0 = Release|Any CPU
+		{390EECAD-8000-4F33-A8F4-52C3784C26D4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{390EECAD-8000-4F33-A8F4-52C3784C26D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{390EECAD-8000-4F33-A8F4-52C3784C26D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{390EECAD-8000-4F33-A8F4-52C3784C26D4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {70108A4D-A1D6-490A-99F5-05F39889AFF2}
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{390EECAD-8000-4F33-A8F4-52C3784C26D4} = {6D12BA1F-510C-457C-9663-182CED91758A}
+	EndGlobalSection
+EndGlobal

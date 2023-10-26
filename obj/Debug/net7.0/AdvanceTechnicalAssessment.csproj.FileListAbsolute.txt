@@ -1,0 +1,5 @@
+C:\Users\adriankainda\AdvanceTechnicalAssessment\obj\Debug\net7.0\AdvanceTechnicalAssessment.csproj.AssemblyReference.cache
+C:\Users\adriankainda\AdvanceTechnicalAssessment\obj\Debug\net7.0\AdvanceTechnicalAssessment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adriankainda\AdvanceTechnicalAssessment\obj\Debug\net7.0\AdvanceTechnicalAssessment.AssemblyInfoInputs.cache
+C:\Users\adriankainda\AdvanceTechnicalAssessment\obj\Debug\net7.0\AdvanceTechnicalAssessment.AssemblyInfo.cs
+C:\Users\adriankainda\AdvanceTechnicalAssessment\obj\Debug\net7.0\AdvanceTechnicalAssessment.csproj.CoreCompileInputs.cache
