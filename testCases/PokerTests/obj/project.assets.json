@@ -1770,6 +1770,13 @@
       "AdvanceTechnicalAssessment/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v7.0",
+        "dependencies": {
+          "MSTest.TestAdapter": "3.1.1",
+          "MSTest.TestFramework": "3.1.1",
+          "Microsoft.NET.Test.Sdk": "17.7.1",
+          "coverlet.collector": "3.2.0",
+          "xunit": "2.4.1"
+        },
         "compile": {
           "bin/placeholder/AdvanceTechnicalAssessment.dll": {}
         },
